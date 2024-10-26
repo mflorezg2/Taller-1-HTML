@@ -1,0 +1,15 @@
+.contenedor {
+    display: flex;           
+    justify-content: space-between; 
+    width: 100%;             
+  }
+  .izquierda, .derecha {
+    width: 48%;              
+    padding: 20px;
+  }
+  .Azul {
+    background-color: blue;
+  }
+#titulo{
+text-align: center;
+}
